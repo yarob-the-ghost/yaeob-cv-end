@@ -1,0 +1,21 @@
+HTTrack3.50-2 launched on Wed, 23 Sep 2026 18:25:30 at http://localhost/QB2/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" http://localhost/QB2/ -O1 "C:\Users\QB\Desktop\yarob-wed-cv-qb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:27:33	Warning: 	Moved Permanently for localhost/QB2/?p=1303
+18:27:33	Warning: 	File has moved from localhost/QB2/?p=1303 to http://localhost/QB2/about/
+18:27:33	Warning: 	Moved Permanently for localhost/QB2/?p=1304
+18:27:33	Warning: 	File has moved from localhost/QB2/?p=1304 to http://localhost/QB2/services/
+18:27:33	Warning: 	Moved Permanently for localhost/QB2/?p=1310
+18:27:33	Warning: 	File has moved from localhost/QB2/?p=1310 to http://localhost/QB2/portfolio/
+18:27:41	Warning: 	Moved Permanently for localhost/QB2/?p=1311
+18:27:41	Warning: 	File has moved from localhost/QB2/?p=1311 to http://localhost/QB2/contact/
+18:27:41	Error: 	"Bad Request" (400) at link localhost/QB2/wp-admin/admin-ajax.php (from localhost/QB2/contact/)
+18:27:41	Error: 	"Not Found" (404) at link localhost/QB2/portfolio/l (from localhost/QB2/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+
+HTTrack Website Copier/3.50-2 mirror complete in 2 minutes 11 seconds : 118 links scanned, 111 files written (8266459 bytes overall) [8462377 bytes received at 64598 bytes/sec], 3.6 requests per connection
+(2 errors, 8 warnings, 0 messages)
